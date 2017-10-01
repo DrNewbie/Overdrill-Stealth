@@ -1,3 +1,5 @@
+![ScreenShot](https://raw.githubusercontent.com/DrNewbie/Overdrill-Stealth/master/preview/img/00.png)
+
 ###
 
 ![ScreenShot](https://thumbs.gfycat.com/ResponsibleLegalHapuka-size_restricted.gif)
