@@ -9,6 +9,6 @@
 		{
 			"hook_id" : "core/lib/managers/mission/coreelementcounter",
 			"script_path" : "lua/EventAttach.lua"
-    	}
+		}
 	]
 }
