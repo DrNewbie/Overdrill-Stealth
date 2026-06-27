@@ -1,14 +1,14 @@
 {
-	"name" : "[First World Bank] Overdrill-Stealth",
-	"author" : "Dr_Newbie",
-	"contact" : "http://modwork.shop/21005",
-	"version" : "1",
-	"priority" : 1,
-	"blt_version": 2,
-	"hooks" : [
-		{
-			"hook_id" : "core/lib/managers/mission/coreelementcounter",
-			"script_path" : "lua/EventAttach.lua"
-		}
-	]
+    "name": "[First World Bank] Overdrill-Stealth",
+    "author": "Dr_Newbie",
+    "contact": "https://modworkshop.net/mod/21005",
+    "version": "2026-06-27",
+    "priority": 1,
+    "blt_version": 2,
+    "hooks": [
+        {
+            "hook_id": "core/lib/managers/mission/coreelementcounter",
+            "script_path": "lua/EventAttach.lua"
+        }
+    ]
 }
