@@ -2,9 +2,7 @@
 
 ###
 
-![ScreenShot](https://thumbs.gfycat.com/ResponsibleLegalHapuka-size_restricted.gif)
-
-(https://gfycat.com/ResponsibleLegalHapuka)
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/27KqFtsE0NQ)
 
 ###
 
